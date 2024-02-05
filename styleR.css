@@ -1,0 +1,21 @@
+
+
+table {
+    font-size: 15px;
+    margin: 0;
+}
+
+td {
+    padding: 20px;
+    border: 1px solid black;
+}
+
+
+h3.physical-activity-heading {
+  background-color:  rgb(209, 205, 205)
+}
+
+h2.physical-activity-head {
+  background-color: gray;
+    color: white;
+}
