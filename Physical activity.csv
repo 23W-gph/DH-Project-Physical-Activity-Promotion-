@@ -1,0 +1,289 @@
+﻿measure;ethnicity;time;age;value
+active;All;Nov 2021 to Nov 2022;16-24;72.8
+active;All;Nov 2015 to Nov 2016;16-24;76.4
+active;All;Nov 2021 to Nov 2022;25-34;67
+active;All;Nov 2015 to Nov 2016;25-34;68.6
+active;All;Nov 2021 to Nov 2022;35-44;65.3
+active;All;Nov 2015 to Nov 2016;35-44;66.6
+active;All;Nov 2021 to Nov 2022;45-54;66.5
+active;All;Nov 2015 to Nov 2016;45-54;64.9
+active;All;Nov 2021 to Nov 2022;55-64;63
+active;All;Nov 2015 to Nov 2016;55-64;58.6
+active;All;Nov 2021 to Nov 2022;65-74;60.7
+active;All;Nov 2015 to Nov 2016;65-74;55.1
+active;Asian;Nov 2021 to Nov 2022;16-24;64
+active;Asian;Nov 2015 to Nov 2016;16-24;65.8
+active;Asian;Nov 2021 to Nov 2022;25-34;55.8
+active;Asian;Nov 2015 to Nov 2016;25-34;55.8
+active;Asian;Nov 2021 to Nov 2022;35-44;52.7
+active;Asian;Nov 2015 to Nov 2016;35-44;51.5
+active;Asian;Nov 2021 to Nov 2022;45-54;50.4
+active;Asian;Nov 2015 to Nov 2016;45-54;54.3
+active;Asian;Nov 2021 to Nov 2022;55-64;51.2
+active;Asian;Nov 2015 to Nov 2016;55-64;50
+active;Asian;Nov 2021 to Nov 2022;65-74;47.8
+active;Asian;Nov 2015 to Nov 2016;65-74;38.5
+active;Chinese;Nov 2021 to Nov 2022;16-24;64.9
+active;Chinese;Nov 2015 to Nov 2016;16-24;59.5
+active;Chinese;Nov 2021 to Nov 2022;25-34;60.9
+active;Chinese;Nov 2015 to Nov 2016;25-34;58.5
+active;Chinese;Nov 2021 to Nov 2022;35-44;58.1
+active;Chinese;Nov 2015 to Nov 2016;35-44;53.5
+active;Chinese;Nov 2021 to Nov 2022;45-54;61.9
+active;Chinese;Nov 2015 to Nov 2016;45-54;49.4
+active;Chinese;Nov 2021 to Nov 2022;55-64;58.7
+active;Chinese;Nov 2015 to Nov 2016;55-64;46.3
+active;Chinese;Nov 2021 to Nov 2022;65-74;54.3
+active;Chinese;Nov 2015 to Nov 2016;65-74;?
+active;Black;Nov 2021 to Nov 2022;16-24;66.1
+active;Black;Nov 2015 to Nov 2016;16-24;69.6
+active;Black;Nov 2021 to Nov 2022;25-34;53.8
+active;Black;Nov 2015 to Nov 2016;25-34;58
+active;Black;Nov 2021 to Nov 2022;35-44;53.5
+active;Black;Nov 2015 to Nov 2016;35-44;58.5
+active;Black;Nov 2021 to Nov 2022;45-54;55.2
+active;Black;Nov 2015 to Nov 2016;45-54;55.7
+active;Black;Nov 2021 to Nov 2022;55-64;54.6
+active;Black;Nov 2015 to Nov 2016;55-64;42.8
+active;Black;Nov 2021 to Nov 2022;65-74;46.3
+active;Black;Nov 2015 to Nov 2016;65-74;43.1
+active;Mixed;Nov 2021 to Nov 2022;16-24;74.9
+active;Mixed;Nov 2015 to Nov 2016;16-24;74.6
+active;Mixed;Nov 2021 to Nov 2022;25-34;72.7
+active;Mixed;Nov 2015 to Nov 2016;25-34;73.9
+active;Mixed;Nov 2021 to Nov 2022;35-44;68.9
+active;Mixed;Nov 2015 to Nov 2016;35-44;72.8
+active;Mixed;Nov 2021 to Nov 2022;45-54;68
+active;Mixed;Nov 2015 to Nov 2016;45-54;68.1
+active;Mixed;Nov 2021 to Nov 2022;55-64;67.4
+active;Mixed;Nov 2015 to Nov 2016;55-64;54.8
+active;Mixed;Nov 2021 to Nov 2022;65-74;45.4
+active;Mixed;Nov 2015 to Nov 2016;65-74;52.7
+active;White British;Nov 2021 to Nov 2022;16-24;76.6
+active;White British;Nov 2015 to Nov 2016;16-24;79.6
+active;White British;Nov 2021 to Nov 2022;25-34;70.4
+active;White British;Nov 2015 to Nov 2016;25-34;71.4
+active;White British;Nov 2021 to Nov 2022;35-44;69.6
+active;White British;Nov 2015 to Nov 2016;35-44;70.2
+active;White British;Nov 2021 to Nov 2022;45-54;69.8
+active;White British;Nov 2015 to Nov 2016;45-54;66.4
+active;White British;Nov 2021 to Nov 2022;55-64;63.8
+active;White British;Nov 2015 to Nov 2016;55-64;59.5
+active;White British;Nov 2021 to Nov 2022;65-74;61.3
+active;White British;Nov 2015 to Nov 2016;65-74;55.7
+active;Any Other White Background;Nov 2021 to Nov 2022;16-24;76.8
+active;Any Other White Background;Nov 2015 to Nov 2016;16-24;79.8
+active;Any Other White Background;Nov 2021 to Nov 2022;25-34;68.3
+active;Any Other White Background;Nov 2015 to Nov 2016;25-34;69.9
+active;Any Other White Background;Nov 2021 to Nov 2022;35-44;66.2
+active;Any Other White Background;Nov 2015 to Nov 2016;35-44;63.9
+active;Any Other White Background;Nov 2021 to Nov 2022;45-54;64.6
+active;Any Other White Background;Nov 2015 to Nov 2016;45-54;63.5
+active;Any Other White Background;Nov 2021 to Nov 2022;55-64;66.6
+active;Any Other White Background;Nov 2015 to Nov 2016;55-64;59.1
+active;Any Other White Background;Nov 2021 to Nov 2022;65-74;63.9
+active;Any Other White Background;Nov 2015 to Nov 2016;65-74;56
+active;Other;Nov 2021 to Nov 2022;16-24;57.7
+active;Other;Nov 2015 to Nov 2016;16-24;74.1
+active;Other;Nov 2021 to Nov 2022;25-34;64.3
+active;Other;Nov 2015 to Nov 2016;25-34;61.2
+active;Other;Nov 2021 to Nov 2022;35-44;51.3
+active;Other;Nov 2015 to Nov 2016;35-44;57
+active;Other;Nov 2021 to Nov 2022;45-54;46.9
+active;Other;Nov 2015 to Nov 2016;45-54;47.1
+active;Other;Nov 2021 to Nov 2022;55-64;56.7
+active;Other;Nov 2015 to Nov 2016;55-64;55.9
+active;Other;Nov 2021 to Nov 2022;65-74;56.1
+active;Other;Nov 2015 to Nov 2016;65-74;42.1
+fairly active;All;Nov 2021 to Nov 2022;16-24;8.7
+fairly active;All;Nov 2015 to Nov 2016;16-24;8.9
+fairly active;All;Nov 2021 to Nov 2022;25-34;10.8
+fairly active;All;Nov 2015 to Nov 2016;25-34;11.8
+fairly active;All;Nov 2021 to Nov 2022;35-44;11.9
+fairly active;All;Nov 2015 to Nov 2016;35-44;13.2
+fairly active;All;Nov 2021 to Nov 2022;45-54;11.3
+fairly active;All;Nov 2015 to Nov 2016;45-54;12.9
+fairly active;All;Nov 2021 to Nov 2022;55-64;11.2
+fairly active;All;Nov 2015 to Nov 2016;55-64;13.3
+fairly active;All;Nov 2021 to Nov 2022;65-74;11.9
+fairly active;All;Nov 2015 to Nov 2016;65-74;14
+fairly active;Asian;Nov 2021 to Nov 2022;16-24;11.3
+fairly active;Asian;Nov 2015 to Nov 2016;16-24;12
+fairly active;Asian;Nov 2021 to Nov 2022;25-34;12.6
+fairly active;Asian;Nov 2015 to Nov 2016;25-34;14.3
+fairly active;Asian;Nov 2021 to Nov 2022;35-44;12.1
+fairly active;Asian;Nov 2015 to Nov 2016;35-44;15.4
+fairly active;Asian;Nov 2021 to Nov 2022;45-54;13.2
+fairly active;Asian;Nov 2015 to Nov 2016;45-54;15.1
+fairly active;Asian;Nov 2021 to Nov 2022;55-64;11.3
+fairly active;Asian;Nov 2015 to Nov 2016;55-64;10.8
+fairly active;Asian;Nov 2021 to Nov 2022;65-74;14.8
+fairly active;Asian;Nov 2015 to Nov 2016;65-74;15.2
+fairly active;Chinese;Nov 2021 to Nov 2022;16-24;?
+fairly active;Chinese;Nov 2015 to Nov 2016;16-24;?
+fairly active;Chinese;Nov 2021 to Nov 2022;25-34;12.5
+fairly active;Chinese;Nov 2015 to Nov 2016;25-34;9.4
+fairly active;Chinese;Nov 2021 to Nov 2022;35-44;14.8
+fairly active;Chinese;Nov 2015 to Nov 2016;35-44;16.4
+fairly active;Chinese;Nov 2021 to Nov 2022;45-54;?
+fairly active;Chinese;Nov 2015 to Nov 2016;45-54;19.5
+fairly active;Chinese;Nov 2021 to Nov 2022;55-64;?
+fairly active;Chinese;Nov 2015 to Nov 2016;55-64;?
+fairly active;Chinese;Nov 2021 to Nov 2022;65-74;?
+fairly active;Chinese;Nov 2015 to Nov 2016;65-74;?
+fairly active;Black;Nov 2021 to Nov 2022;16-24;7.4
+fairly active;Black;Nov 2015 to Nov 2016;16-24;11.8
+fairly active;Black;Nov 2021 to Nov 2022;25-34;15
+fairly active;Black;Nov 2015 to Nov 2016;25-34;14.7
+fairly active;Black;Nov 2021 to Nov 2022;35-44;14.3
+fairly active;Black;Nov 2015 to Nov 2016;35-44;15.4
+fairly active;Black;Nov 2021 to Nov 2022;45-54;10.1
+fairly active;Black;Nov 2015 to Nov 2016;45-54;16.9
+fairly active;Black;Nov 2021 to Nov 2022;55-64;16.8
+fairly active;Black;Nov 2015 to Nov 2016;55-64;17.2
+fairly active;Black;Nov 2021 to Nov 2022;65-74;18.3
+fairly active;Black;Nov 2015 to Nov 2016;65-74;?
+fairly active;Mixed;Nov 2021 to Nov 2022;16-24;9
+fairly active;Mixed;Nov 2015 to Nov 2016;16-24;10.1
+fairly active;Mixed;Nov 2021 to Nov 2022;25-34;10.6
+fairly active;Mixed;Nov 2015 to Nov 2016;25-34;8.6
+fairly active;Mixed;Nov 2021 to Nov 2022;35-44;13.1
+fairly active;Mixed;Nov 2015 to Nov 2016;35-44;10.8
+fairly active;Mixed;Nov 2021 to Nov 2022;45-54;11.2
+fairly active;Mixed;Nov 2015 to Nov 2016;45-54;14
+fairly active;Mixed;Nov 2021 to Nov 2022;55-64;?
+fairly active;Mixed;Nov 2015 to Nov 2016;55-64;12.7
+fairly active;Mixed;Nov 2021 to Nov 2022;65-74;?
+fairly active;Mixed;Nov 2015 to Nov 2016;65-74;?
+fairly active;White British;Nov 2021 to Nov 2022;16-24;8.2
+fairly active;White British;Nov 2015 to Nov 2016;16-24;7.9
+fairly active;White British;Nov 2021 to Nov 2022;25-34;10.5
+fairly active;White British;Nov 2015 to Nov 2016;25-34;11.6
+fairly active;White British;Nov 2021 to Nov 2022;35-44;11.8
+fairly active;White British;Nov 2015 to Nov 2016;35-44;12.9
+fairly active;White British;Nov 2021 to Nov 2022;45-54;11.3
+fairly active;White British;Nov 2015 to Nov 2016;45-54;12.4
+fairly active;White British;Nov 2021 to Nov 2022;55-64;11.1
+fairly active;White British;Nov 2015 to Nov 2016;55-64;13.4
+fairly active;White British;Nov 2021 to Nov 2022;65-74;11.8
+fairly active;White British;Nov 2015 to Nov 2016;65-74;14.1
+fairly active;Any Other White Background;Nov 2021 to Nov 2022;16-24;6.8
+fairly active;Any Other White Background;Nov 2015 to Nov 2016;16-24;6.7
+fairly active;Any Other White Background;Nov 2021 to Nov 2022;25-34;10.1
+fairly active;Any Other White Background;Nov 2015 to Nov 2016;25-34;9.8
+fairly active;Any Other White Background;Nov 2021 to Nov 2022;35-44;11.1
+fairly active;Any Other White Background;Nov 2015 to Nov 2016;35-44;12.8
+fairly active;Any Other White Background;Nov 2021 to Nov 2022;45-54;9.7
+fairly active;Any Other White Background;Nov 2015 to Nov 2016;45-54;13.3
+fairly active;Any Other White Background;Nov 2021 to Nov 2022;55-64;9.9
+fairly active;Any Other White Background;Nov 2015 to Nov 2016;55-64;15.9
+fairly active;Any Other White Background;Nov 2021 to Nov 2022;65-74;11.5
+fairly active;Any Other White Background;Nov 2015 to Nov 2016;65-74;11.3
+fairly active;Other;Nov 2021 to Nov 2022;16-24;?
+fairly active;Other;Nov 2015 to Nov 2016;16-24;?
+fairly active;Other;Nov 2021 to Nov 2022;25-34;8.2
+fairly active;Other;Nov 2015 to Nov 2016;25-34;12.2
+fairly active;Other;Nov 2021 to Nov 2022;35-44;16.1
+fairly active;Other;Nov 2015 to Nov 2016;35-44;12.2
+fairly active;Other;Nov 2021 to Nov 2022;45-54;12
+fairly active;Other;Nov 2015 to Nov 2016;45-54;18.7
+fairly active;Other;Nov 2021 to Nov 2022;55-64;15.8
+fairly active;Other;Nov 2015 to Nov 2016;55-64;?
+fairly active;Other;Nov 2021 to Nov 2022;65-74;?
+fairly active;Other;Nov 2015 to Nov 2016;65-74;?
+inactive;All;Nov 2021 to Nov 2022;16-24;18.5
+inactive;All;Nov 2015 to Nov 2016;16-24;14.7
+inactive;All;Nov 2021 to Nov 2022;25-34;22.3
+inactive;All;Nov 2015 to Nov 2016;25-34;19.6
+inactive;All;Nov 2021 to Nov 2022;35-44;22.9
+inactive;All;Nov 2015 to Nov 2016;35-44;20.3
+inactive;All;Nov 2021 to Nov 2022;45-54;22.2
+inactive;All;Nov 2015 to Nov 2016;45-54;22.2
+inactive;All;Nov 2021 to Nov 2022;55-64;25.8
+inactive;All;Nov 2015 to Nov 2016;55-64;28.1
+inactive;All;Nov 2021 to Nov 2022;65-74;27.4
+inactive;All;Nov 2015 to Nov 2016;65-74;30.9
+inactive;Asian;Nov 2021 to Nov 2022;16-24;24.6
+inactive;Asian;Nov 2015 to Nov 2016;16-24;22.2
+inactive;Asian;Nov 2021 to Nov 2022;25-34;31.6
+inactive;Asian;Nov 2015 to Nov 2016;25-34;29.9
+inactive;Asian;Nov 2021 to Nov 2022;35-44;35.2
+inactive;Asian;Nov 2015 to Nov 2016;35-44;33.1
+inactive;Asian;Nov 2021 to Nov 2022;45-54;36.4
+inactive;Asian;Nov 2015 to Nov 2016;45-54;30.7
+inactive;Asian;Nov 2021 to Nov 2022;55-64;37.5
+inactive;Asian;Nov 2015 to Nov 2016;55-64;39.2
+inactive;Asian;Nov 2021 to Nov 2022;65-74;37.4
+inactive;Asian;Nov 2015 to Nov 2016;65-74;46.3
+inactive;Chinese;Nov 2021 to Nov 2022;16-24;25.5
+inactive;Chinese;Nov 2015 to Nov 2016;16-24;24.4
+inactive;Chinese;Nov 2021 to Nov 2022;25-34;26.5
+inactive;Chinese;Nov 2015 to Nov 2016;25-34;32.1
+inactive;Chinese;Nov 2021 to Nov 2022;35-44;27
+inactive;Chinese;Nov 2015 to Nov 2016;35-44;30.1
+inactive;Chinese;Nov 2021 to Nov 2022;45-54;28.8
+inactive;Chinese;Nov 2015 to Nov 2016;45-54;31
+inactive;Chinese;Nov 2021 to Nov 2022;55-64;28.9
+inactive;Chinese;Nov 2015 to Nov 2016;55-64;49
+inactive;Chinese;Nov 2021 to Nov 2022;65-74;?
+inactive;Chinese;Nov 2015 to Nov 2016;65-74;?
+inactive;Black;Nov 2021 to Nov 2022;16-24;26.5
+inactive;Black;Nov 2015 to Nov 2016;16-24;18.6
+inactive;Black;Nov 2021 to Nov 2022;25-34;31.2
+inactive;Black;Nov 2015 to Nov 2016;25-34;27.3
+inactive;Black;Nov 2021 to Nov 2022;35-44;32.2
+inactive;Black;Nov 2015 to Nov 2016;35-44;26.1
+inactive;Black;Nov 2021 to Nov 2022;45-54;34.8
+inactive;Black;Nov 2015 to Nov 2016;45-54;27.3
+inactive;Black;Nov 2021 to Nov 2022;55-64;28.6
+inactive;Black;Nov 2015 to Nov 2016;55-64;40
+inactive;Black;Nov 2021 to Nov 2022;65-74;35.4
+inactive;Black;Nov 2015 to Nov 2016;65-74;43
+inactive;Mixed;Nov 2021 to Nov 2022;16-24;16.1
+inactive;Mixed;Nov 2015 to Nov 2016;16-24;15.3
+inactive;Mixed;Nov 2021 to Nov 2022;25-34;16.7
+inactive;Mixed;Nov 2015 to Nov 2016;25-34;17.5
+inactive;Mixed;Nov 2021 to Nov 2022;35-44;17.9
+inactive;Mixed;Nov 2015 to Nov 2016;35-44;16.3
+inactive;Mixed;Nov 2021 to Nov 2022;45-54;20.8
+inactive;Mixed;Nov 2015 to Nov 2016;45-54;17.9
+inactive;Mixed;Nov 2021 to Nov 2022;55-64;24
+inactive;Mixed;Nov 2015 to Nov 2016;55-64;32.5
+inactive;Mixed;Nov 2021 to Nov 2022;65-74;42.1
+inactive;Mixed;Nov 2015 to Nov 2016;65-74;?
+inactive;White British;Nov 2021 to Nov 2022;16-24;15.2
+inactive;White British;Nov 2015 to Nov 2016;16-24;12.5
+inactive;White British;Nov 2021 to Nov 2022;25-34;19.2
+inactive;White British;Nov 2015 to Nov 2016;25-34;16.9
+inactive;White British;Nov 2021 to Nov 2022;35-44;18.6
+inactive;White British;Nov 2015 to Nov 2016;35-44;16.9
+inactive;White British;Nov 2021 to Nov 2022;45-54;18.9
+inactive;White British;Nov 2015 to Nov 2016;45-54;21.2
+inactive;White British;Nov 2021 to Nov 2022;55-64;25.1
+inactive;White British;Nov 2015 to Nov 2016;55-64;27.2
+inactive;White British;Nov 2021 to Nov 2022;65-74;27
+inactive;White British;Nov 2015 to Nov 2016;65-74;30.3
+inactive;Any Other White Background;Nov 2021 to Nov 2022;16-24;16.4
+inactive;Any Other White Background;Nov 2015 to Nov 2016;16-24;13.5
+inactive;Any Other White Background;Nov 2021 to Nov 2022;25-34;21.6
+inactive;Any Other White Background;Nov 2015 to Nov 2016;25-34;20.3
+inactive;Any Other White Background;Nov 2021 to Nov 2022;35-44;22.7
+inactive;Any Other White Background;Nov 2015 to Nov 2016;35-44;23.2
+inactive;Any Other White Background;Nov 2021 to Nov 2022;45-54;25.7
+inactive;Any Other White Background;Nov 2015 to Nov 2016;45-54;23.1
+inactive;Any Other White Background;Nov 2021 to Nov 2022;55-64;23.5
+inactive;Any Other White Background;Nov 2015 to Nov 2016;55-64;25
+inactive;Any Other White Background;Nov 2021 to Nov 2022;65-74;24.6
+inactive;Any Other White Background;Nov 2015 to Nov 2016;65-74;32.7
+inactive;Other;Nov 2021 to Nov 2022;16-24;32.3
+inactive;Other;Nov 2015 to Nov 2016;16-24;?
+inactive;Other;Nov 2021 to Nov 2022;25-34;27.5
+inactive;Other;Nov 2015 to Nov 2016;25-34;26.6
+inactive;Other;Nov 2021 to Nov 2022;35-44;32.6
+inactive;Other;Nov 2015 to Nov 2016;35-44;30.8
+inactive;Other;Nov 2021 to Nov 2022;45-54;41.1
+inactive;Other;Nov 2015 to Nov 2016;45-54;34.2
+inactive;Other;Nov 2021 to Nov 2022;55-64;27.6
+inactive;Other;Nov 2015 to Nov 2016;55-64;37
+inactive;Other;Nov 2021 to Nov 2022;65-74;35.3
+inactive;Other;Nov 2015 to Nov 2016;65-74;41.9
