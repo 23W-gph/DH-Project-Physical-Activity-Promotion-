@@ -8,7 +8,7 @@ pacman::p_load(
   plotly
 )
 
-source(here("Data/clean.R"))
+source(here("clean.R"))
 
 ui <- fluidPage(
   includeCSS("styleR.css"),  
