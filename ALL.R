@@ -16,7 +16,7 @@ pacman::p_load(
 
 install.packages("vroom")
 
-Physical_activity <- read_delim(here("Data/Physical activity.csv"), 
+Physical_activity <- read_delim(here("Physical activity.csv"), 
     name_repair = "universal",
     delim = ";", 
     escape_double = FALSE, 
